@@ -49,3 +49,6 @@ C = A / B
 - Mathematical error handling
 - Matrix formatting
 - Floating-point precision
+
+## Example/Пример 
+![image](https://github.com/user-attachments/assets/edb495e2-74f4-43de-baf8-6d2f317ebb08)
