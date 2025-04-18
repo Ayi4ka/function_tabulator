@@ -52,3 +52,6 @@ C = A / B
 
 ## Example/Пример 
 ![image](https://github.com/user-attachments/assets/edb495e2-74f4-43de-baf8-6d2f317ebb08)
+
+## Verification/Верификация
+![image](https://github.com/user-attachments/assets/8520aab5-38da-4bdf-960a-83961af2c125)
