@@ -6,7 +6,7 @@
 
 ---
 
-## 🔢 Formula
+## 🔢 Formula / Формула
 
 A = |sin((p / 2) - x + 3)| + 2p / x²
 B = |ln(x + π) + p| - √(x + 3)
@@ -17,11 +17,11 @@ C = A / B
 
 ## ✅ Features / Особенности
 
-- User-defined input ranges for `x` and `p`
-- Error checks for invalid math operations
-- Neatly printed result matrix with error legend
-- Finds largest negative value by absolute magnitude
-
+- User-defined input ranges for `x` and `p` / Пользовательские диапазоны ввода для `x` и `p`
+- Error checks for invalid math operations / Проверка ошибок на наличие недопустимых математических операций
+- Neatly printed result matrix with error legend / Аккуратно напечатанная матрица результатов с обозначением ошибки
+- Finds largest negative value by absolute magnitude / Поиск наибольшего отрицательного значения по абсолютной величине
+  
 ---
 
 ## ❗ Error Codes / Коды ошибок
@@ -44,11 +44,13 @@ C = A / B
    ./tabulator
 
 📚 Topics Covered / Затронутые темы
-- Dynamic memory allocation
-- Pointer arithmetic
-- Mathematical error handling
-- Matrix formatting
-- Floating-point precision
+- Dynamic memory allocation / Динамическое выделение памяти
+- Pointer arithmetic / Арифметика с указателем
+- Mathematical error handling / Обработка математических ошибок
+- Matrix formatting / Форматирование матрицы
+- Floating-point precision / Точность с плавающей запятой
+
+🤝 Author | Автор Made with ❤️ by Ayi4ka in 2020 / Сделано с любовью — Айка в 2020 году
 
 ## Example/Пример 
 ![image](https://github.com/user-attachments/assets/edb495e2-74f4-43de-baf8-6d2f317ebb08)
