@@ -50,7 +50,7 @@ C = A / B
 - Matrix formatting / Форматирование матрицы
 - Floating-point precision / Точность с плавающей запятой
 
-🤝 Author | Автор Made with ❤️ by Ayi4ka in 2020 / Сделано с любовью — Айка в 2020 году
+🤝 Author | Автор Made with ❤️ by Ayi4ka in 2021 / Сделано с любовью — Айка в 2021 году
 
 ## Example/Пример 
 ![image](https://github.com/user-attachments/assets/edb495e2-74f4-43de-baf8-6d2f317ebb08)
